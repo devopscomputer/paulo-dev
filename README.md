@@ -10,8 +10,6 @@
 
 <br />
 
-<img src="landing-page-prototype.png" alt="Página Inicial da Aplicação Web" />
-
 
 
 <br />
