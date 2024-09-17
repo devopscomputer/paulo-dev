@@ -12,7 +12,7 @@
 
 <img src="landing-page-prototype.png" alt="Página Inicial da Aplicação Web" />
 
-> Esta é minha web page pessoal, nela conterá informações profissionais e de contato. Com o desenvolvimento dessa aplicação irei praticar os conceitos de UI/UX design, Front-End Developer com Vue + Tailwind e criação de API RestFul com Ruby on Rails. [Clique aqui para visualizar a página!]()
+
 
 <br />
 
