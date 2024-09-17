@@ -60,6 +60,6 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 📝 Licença
 
-Copyright © 2022 Pumba Developer
+Copyright © 2022 PauloUI Developer
 
 [⬆ Voltar ao topo](#pumba-dev-website)<br>
