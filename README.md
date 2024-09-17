@@ -12,7 +12,7 @@
 
 <img src="landing-page-prototype.png" alt="Página Inicial da Aplicação Web" />
 
-> Esta é minha web page pessoal, nela conterá informações profissionais e de contato. Com o desenvolvimento dessa aplicação irei praticar os conceitos de UI/UX design, Front-End Developer com Vue + Tailwind e criação de API RestFul com Ruby on Rails. [Clique aqui para visualizar a página!](https://pumbadev.com)
+> Esta é minha web page pessoal, nela conterá informações profissionais e de contato. Com o desenvolvimento dessa aplicação irei praticar os conceitos de UI/UX design, Front-End Developer com Vue + Tailwind e criação de API RestFul com Ruby on Rails. [Clique aqui para visualizar a página!]()
 
 <br />
 
@@ -51,32 +51,12 @@ Para contribuir com website, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pumba-dev">
-        <img src="https://static.wikia.nocookie.net/disneypt/images/c/cf/It_means_no_worries.png/revision/latest?cb=20200128144126&path-prefix=pt" width="100px;" alt="Foto do PumbaDev no GitHub"/><br>
-        <sub>
-          <b>Eu Mesmo</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
-## 😄 Seja um dos Contribuidores<br>
 
-Entre em contato para se tornar um contribuidor.
 
-## 💰 Donate
 
-[![PicPay](https://img.shields.io/badge/PicPay-%40PumbaDev%20-brightgreen)](https://picpay.me/pumbadev)
-[![Nubank](https://img.shields.io/badge/Nubank-Pix%20QR%20Code-blueviolet)](https://nubank.com.br/pagar/1ou9f/ifu2K7YNO7)
+
 
 ## 📝 Licença
 
